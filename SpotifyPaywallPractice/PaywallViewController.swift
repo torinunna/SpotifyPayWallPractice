@@ -38,6 +38,7 @@ class PaywallViewController: UIViewController {
         datasource.apply(snapshot)
         
         collectionView.collectionViewLayout = layout()
+        collectionView.alwaysBounceVertical = false
         
         pageControl.numberOfPages = bannerInfos.count
     }
