@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		864C69402A18B24300A8448F /* BannerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864C693F2A18B24300A8448F /* BannerCell.swift */; };
 		86563A082A17BEFE00EE92F8 /* PaywallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86563A072A17BEFE00EE92F8 /* PaywallViewController.swift */; };
 		86563A0A2A17BFF900EE92F8 /* BannerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86563A092A17BFF900EE92F8 /* BannerInfo.swift */; };
 		866F4F5E2A13BD9B000CBD27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866F4F5D2A13BD9B000CBD27 /* AppDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		864C693F2A18B24300A8448F /* BannerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerCell.swift; sourceTree = "<group>"; };
 		86563A072A17BEFE00EE92F8 /* PaywallViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallViewController.swift; sourceTree = "<group>"; };
 		86563A092A17BFF900EE92F8 /* BannerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerInfo.swift; sourceTree = "<group>"; };
 		866F4F5A2A13BD9B000CBD27 /* SpotifyPaywallPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpotifyPaywallPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +64,7 @@
 				866F4F5F2A13BD9B000CBD27 /* SceneDelegate.swift */,
 				86563A072A17BEFE00EE92F8 /* PaywallViewController.swift */,
 				866F4F632A13BD9B000CBD27 /* Main.storyboard */,
+				864C693F2A18B24300A8448F /* BannerCell.swift */,
 				86563A092A17BFF900EE92F8 /* BannerInfo.swift */,
 				866F4F662A13BD9B000CBD27 /* Assets.xcassets */,
 				866F4F682A13BD9B000CBD27 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				866F4F5E2A13BD9B000CBD27 /* AppDelegate.swift in Sources */,
+				864C69402A18B24300A8448F /* BannerCell.swift in Sources */,
 				86563A0A2A17BFF900EE92F8 /* BannerInfo.swift in Sources */,
 				866F4F602A13BD9B000CBD27 /* SceneDelegate.swift in Sources */,
 				86563A082A17BEFE00EE92F8 /* PaywallViewController.swift in Sources */,
